@@ -5,6 +5,6 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 
 Pulling from Remote!
 
-## [View the companion reference site](-copy link from github-)
+## [View the companion reference site](https://efduggan.github.io/github-via-client/)
 ## The Thurd level
 #### Forth The language for the future
